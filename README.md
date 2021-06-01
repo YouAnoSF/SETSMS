@@ -20,5 +20,5 @@ cd SETSMS
 chmod 777 SETSMS.sh
 #
 bash SETSMS.sh
-# Creado por Darkmux
-# ©WHITE HACKS
+# Creado por YouAnonSF
+# ©ANONYMOUS HSF
