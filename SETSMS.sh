@@ -113,6 +113,10 @@ echo -e "${verde}
 function Choose {
 SETSMS
 echo -e -n "${verde}
+┌════════════════════════════════════┐
+█ ${blanco}MOFICADO AL ESPAÑOL POR YOUANONSF ${verde}█
+└════════════════════════════════════┘
+echo -e -n "${verde}
 ┌═══════════════════════┐
 █ ${blanco}SELECCIONE UNA OPCIÓN ${verde}█
 └═══════════════════════┘
